@@ -1,0 +1,12 @@
+# Default behavior
+*.tsx linguist-detectable
+src/**/*.ts linguist-detectable
+*.min.css linguist-generated
+vendor/* linguist-vendored
+*.yml linguist-detectable=false
+public/* linguist-vendored
+*.png binary
+
+*.jpg binary
+*.sh text eol=lf
+*.yaml linguist-detectable=false
