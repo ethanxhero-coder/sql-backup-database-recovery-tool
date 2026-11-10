@@ -1,0 +1,9 @@
+coverage/
+.cache/
+.env.local
+*.log
+*.tgz
+node_modules/
+npm-debug.log*
+.next/
+build/
